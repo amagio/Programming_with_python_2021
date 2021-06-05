@@ -28,3 +28,4 @@ city_density = city_population/city_area
 print('City Population = ' + str(city_population))
 print('City Density = ' + str(city_density))
 print('Date = ' + str(current_date))
+print('Date = ' + str(current_date))

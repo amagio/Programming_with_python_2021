@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Added resources for part 4 and external data sources">
-      <change afterPath="$PROJECT_DIR$/Amanda/conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amanda/my_city.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part1-Basics/c_own_code2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/d_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/d_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amanda/my_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amanda/my_city.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,11 +173,11 @@
     </configuration>
     <list>
       <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.conditionals" />
       <item itemvalue="Python.d_variables" />
       <item itemvalue="Python.e_operators_arithmetic" />
-      <item itemvalue="Python.my_city" />
       <item itemvalue="Python.f_operators_comparison" />
-      <item itemvalue="Python.conditionals" />
+      <item itemvalue="Python.my_city" />
     </list>
     <recent_temporary>
       <list>
