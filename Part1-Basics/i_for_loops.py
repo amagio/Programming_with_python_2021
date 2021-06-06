@@ -37,8 +37,8 @@ print('range(start_val, end_val, steps)')
 
 print('................................')
 print('You can also create some shapes: ')
-text = '@'
-character = '@'
+text = ' '
+character = '//..\n || \n'
 for i in range(1, 10):
     text += character
     print(text)
