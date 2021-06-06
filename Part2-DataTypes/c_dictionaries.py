@@ -27,7 +27,7 @@ print(my_dict)
 data_type = type(my_dict)
 print(data_type, '\n')
 
-print("the structure of dictionary is based on {key:value}")
+print('the structure of dictionary is based on {key:value}')
 my_dict = {'a': 0, 'b': 10, 'c': 100}
 print(my_dict)
 print("we can get the value by searching the key")
